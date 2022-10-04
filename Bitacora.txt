@@ -1,1 +1,5 @@
+
 primeras pruebas con git en mi maquina virtual
+ inicie repositorio hoy 
+2022/10/03
+
